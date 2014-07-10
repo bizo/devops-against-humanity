@@ -505,6 +505,7 @@ The last reduce task,____ has entered the ALARM state.
 Single points of failure,____ hit our email limit on the automated@ account.
 Haversine distance,____ accidentally killed the cron server.
 IvyDE,___ because the test had one extra conversion.
+<<<<<<< HEAD
 A voracious Internet worm,I spent all morning tracking down the Debian package for _____.
 Cargo-cult programming,I once wrote a script to automate _____.
 A Jenkins plugin that randomly deletes LDAP entries in the sales org,In my heart of hearts I'm certain we'd have suffered minimal downtime if only I had _____.
@@ -541,3 +542,12 @@ An ascii-art version of the Hallucinogenic Toreador,"Why should I care about ___
 A former script kiddie now under the Federal Witness Protection Program,Have you heard about the bill moving through Congress that would ban _____ on the Internet?
 Apple's long-rumored HumancentiPad,_____ gives a whole new meaning to Penetration Testing.
 Ruby Hipsters,I spent the better part of the day setting up metrics to track _____.
+,"At a high level, everything is _____."
+Lunch & Learns,
+Dev Demos,
+Hard-core normcore,What's more hipster than _____?
+Recursion, _____ is this decade's GOTO.
+nerdcore,
+Defunctionalization,
+,It's basically _____ with a REST API.
+Spaghetti code,Node.js is great if you like _____.
